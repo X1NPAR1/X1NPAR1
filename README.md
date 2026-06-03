@@ -3,7 +3,7 @@
 </a>
 
 ```c
-Name        : Beytullah Kerem Aytekin
+Name        : Beytullah Aytekin
 Username    : X1NPAR1
 Location    : Türkiye
 
