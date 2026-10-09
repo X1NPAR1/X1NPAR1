@@ -6,7 +6,7 @@
 oyunlar ve oyun modları geliştiriyorum. Ortak paydam hep aynı: **performans, güvenlik ve kullanıcı deneyimi.**
 Projelerimin çoğu açık kaynak; geri kalanların kurulum dosyalarını da burada herkese açık dağıtıyorum.
 
-📍 İzmir, Türkiye · 🌐 [bekaasoft.com.tr](https://bekaasoft.com.tr/tr/) · 🎮 [2158.com.tr](https://2158.com.tr/)
+📍 İzmir, Türkiye · 📸 [@beytoo3532](https://www.instagram.com/beytoo3532/) · 🎮 [2158.com.tr](https://2158.com.tr/)
 
 ---
 
@@ -59,7 +59,6 @@ bekliyor. Sabaha kadar dükkânı ayakta tutman gerekiyor — ve uyumaman.
 ## 🎖️ Strateji oyunu araçları
 
 - **[HoI4 Cheat Control Panel](https://github.com/X1NPAR1/hoi4-cheat-control-panel)** — Hearts of Iron IV 1.19 için kategorili, açıklamalı oyun içi hile ve hata ayıklama paneli. Ekleme tabanlı, 6 dil.
-- **[Millennium Dawn Cheat Panel](https://github.com/X1NPAR1/millennium-dawn-cheat-panel)** — Millennium Dawn modunun kendi dosyalarından üretilen kategorili hile paneli.
 
 ## 🧟 Unturned (RocketMod) eklentileri
 
@@ -115,6 +114,8 @@ Topluluk sunucuları için yazdığım eklentiler:
 
 ## 📫 İletişim
 
-🌐 [bekaasoft.com.tr](https://bekaasoft.com.tr/tr/) · 🎮 [2158.com.tr](https://2158.com.tr/) · 🐙 [github.com/X1NPAR1](https://github.com/X1NPAR1)
+[![Instagram](https://img.shields.io/badge/Instagram-@beytoo3532-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beytoo3532/)
+
+📸 [@beytoo3532](https://www.instagram.com/beytoo3532/) · 🎮 [2158.com.tr](https://2158.com.tr/) · 🐙 [github.com/X1NPAR1](https://github.com/X1NPAR1)
 
 > *"İyi yazılım; güvenilirlik, performans, ayrıntıya özen ve sürekli gelişme kararlılığıyla yapılır."*
