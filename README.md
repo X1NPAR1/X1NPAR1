@@ -45,23 +45,21 @@ A **Turkish-made survival horror game** with a PS1-era look, made by **BeyHod Ya
 
 ## 🚀 More featured projects
 
-| Project | What it does | Tech |
-| --- | --- | --- |
-| 🎮 **[Oyun Arşivim](https://github.com/X1NPAR1/oyun-arsivim)** | Game library and launcher for Windows. Auto-detects Steam, Epic, GOG, EA, Ubisoft, Battle.net, Riot and Xbox games; playtime tracking, statistics and a performance mode. | Rust · Tauri 2 · React · TypeScript |
-| 🧹 **[BKKleaner](https://github.com/X1NPAR1/BKKleaner)** | Windows optimization, monitoring and cleanup suite. Safe tweaks only, full undo; 5 languages, 6 themes. | C# · .NET 9 · WPF · MVVM |
-| 🛡️ **[SafeDroid](https://github.com/X1NPAR1/SafeDroid)** | Android security and performance suite: antivirus, privacy tools, junk cleanup, optimization. | C# · .NET MAUI |
-| 🔎 **[OpenSourceHub](https://github.com/X1NPAR1/OpenSourceHub)** | GitHub analysis and discovery platform for Windows — *Analyze. Discover. Build Better.* | C# · WPF |
-| 🪪 **[GitHub Profile Generator](https://github.com/X1NPAR1/GitHub-Profile-Generator)** | Desktop app for managing your GitHub profile. | C# · .NET 10 · WPF · Clean Architecture |
-| 🍔 **[Burger Dükkânım](https://github.com/X1NPAR1/burger-dukkanim)** | 3D mobile burger tycoon / idle game — fully offline. | Godot 4 · GDScript |
+Desktop, mobile and game projects:
+[Oyun Arşivim](https://github.com/X1NPAR1/oyun-arsivim) (game library and launcher for Windows) ·
+[BKKleaner](https://github.com/X1NPAR1/BKKleaner) (Windows optimization and cleanup suite) ·
+[SafeDroid](https://github.com/X1NPAR1/SafeDroid) (Android security and performance suite) ·
+[OpenSourceHub](https://github.com/X1NPAR1/OpenSourceHub) (GitHub analysis and discovery platform) ·
+[GitHub Profile Generator](https://github.com/X1NPAR1/GitHub-Profile-Generator) (GitHub profile manager) ·
+[Burger Dükkânım](https://github.com/X1NPAR1/burger-dukkanim) (3D mobile burger tycoon game)
 
 ## 🧱 Minecraft mods
 
-| Mod | Description |
-| --- | --- |
-| **[Adaptive Performance Manager](https://github.com/X1NPAR1/adaptive-performance-manager)** | Real-time FPS/CPU/RAM optimization: tiered optimizer, VSync/frame-rate control, live dashboard, 11 languages. Client-side, MIT. |
-| **[Smart Mob Evolution](https://github.com/X1NPAR1/smart-mob-evolution)** | Hostile mobs evolve by learning player behavior — emergent intelligence, not stat inflation. Fabric 1.21.1, server-side. |
-| **[Adaptive Horror Entity](https://github.com/X1NPAR1/AdaptiveHorrorEntity)** | A smart entity that quietly stalks you instead of relying on cheap jump scares. NeoForge + Fabric 1.21.1. |
-| **[BeyHod Health Display](https://github.com/X1NPAR1/BeyHodHealthDisplay)** | Health display add-on. |
+Mods for Fabric and NeoForge 1.21.1:
+[Adaptive Performance Manager](https://github.com/X1NPAR1/adaptive-performance-manager) (real-time FPS/CPU/RAM optimizer) ·
+[Smart Mob Evolution](https://github.com/X1NPAR1/smart-mob-evolution) (mobs that learn from player behavior) ·
+[Adaptive Horror Entity](https://github.com/X1NPAR1/AdaptiveHorrorEntity) (a smart entity that stalks you) ·
+[BeyHod Health Display](https://github.com/X1NPAR1/BeyHodHealthDisplay) (health display add-on)
 
 ## 🧟 Unturned (RocketMod) plugins
 
