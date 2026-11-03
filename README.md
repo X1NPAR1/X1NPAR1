@@ -1,85 +1,88 @@
 <a href="https://github.com/X1NPAR1">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&duration=2500&pause=700&color=31F700&width=850&lines=Merhaba%2C+ben+Beytullah+%E2%80%94+X1NPAR1;Ba%C4%9F%C4%B1ms%C4%B1z+yaz%C4%B1l%C4%B1m+geli%C5%9Ftirici+%C2%B7+%C4%B0zmir;Masa%C3%BCst%C3%BC+%C2%B7+Mobil+%C2%B7+Oyun+%C2%B7+Mod;21%3A58+%E2%80%94+%C3%87amyolu'nda+Son+Vardiya+%C3%A7%C4%B1kt%C4%B1!" alt="Merhaba, ben Beytullah — X1NPAR1" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&duration=2500&pause=700&color=31F700&width=850&lines=Hi%2C+I%27m+Beytullah+%E2%80%94+X1NPAR1;Independent+software+developer+%C2%B7+Izmir%2C+Turkey;Desktop+%C2%B7+Mobile+%C2%B7+Games+%C2%B7+Mods;21%3A58+%E2%80%94+Last+Shift+on+%C3%87amyolu+is+out!" alt="Hi, I'm Beytullah — X1NPAR1" />
 </a>
 
-**Bağımsız yazılım geliştiriciyim.** Windows masaüstü uygulamaları, sistem araçları, mobil uygulamalar,
-oyunlar ve oyun modları geliştiriyorum. Ortak paydam hep aynı: **performans, güvenlik ve kullanıcı deneyimi.**
-Projelerimin çoğu açık kaynak; geri kalanların kurulum dosyalarını da burada herkese açık dağıtıyorum.
+**I'm an independent software developer.** I build Windows desktop apps, system utilities, mobile apps,
+games and game mods. The common thread is always the same: **performance, security and user experience.**
+Most of my projects are open source, and I distribute installers for the rest publicly here.
 
-📍 İzmir, Türkiye · 📸 [@beytoo3532](https://www.instagram.com/beytoo3532/) · 🎮 [2158.com.tr](https://2158.com.tr/)
-
----
-
-## 🌲 21:58 — Çamyolu'nda Son Vardiya
-
-<a href="https://2158.com.tr/"><img src="https://img.shields.io/badge/%C3%9Ccretsiz%20indir-2158.com.tr-31F700?style=for-the-badge" alt="Ücretsiz indir — 2158.com.tr" /></a>
-
-> **Yirmi gece. Tek kural: uyuma.**
-
-**1996.** Eski devlet yolu Çamyolu 24 üzerinde, ormanın ortasında 24 saat açık bir market ve akaryakıt
-istasyonu. Arkadaşın Emre'nin aracılığıyla işe giriyorsun; patronun Nuri Bey'i hiç görmüyorsun.
-Dükkânın saati **21:58**'de duruyor, kasadan 1996 tarihli bir fiş çıkıyor ve dışarıda sahipsiz bir araba
-bekliyor. Sabaha kadar dükkânı ayakta tutman gerekiyor — ve uyumaman.
-
-**BeyHod Yapım** imzalı, PS1 dönemi görünümlü, **Türk yapımı bir hayatta kalma korku oyunu.**
-
-- 🧾 **Gece vardiyası yönetimi:** kasa, raf dizme, sigara ve yakıt satışı, elektrik ve uyku yönetimi
-- 📹 **14 güvenlik kamerası** izle, gerekince **saklan ve nefesini tut**
-- 🌙 **20 gece**, yaklaşık **4–6 saatlik** hikâye, **3 farklı son**
-- 🏆 Liderlik tablosu (*Vardiya defteri*), başarımlar ve istatistikler — sonuçlar yalnız sen istersen gönderilir
-- ⌨️ Tamamen yeniden atanabilir tuşlar
-- 💸 **Tamamen ücretsiz** — reklam yok, satın alma yok
-
-**Platform:** Windows 10/11 (64 bit) · **Motor:** Godot · **Gereksinim:** DirectX 12 veya Vulkan, 4 GB RAM ·
-**Yaş sınırı:** 16+ (ani korkutmalar ve yanıp sönen ışıklar içerir)
+📍 Izmir, Turkey · 📸 [@beytoo3532](https://www.instagram.com/beytoo3532/) · 🎮 [2158.com.tr](https://2158.com.tr/)
 
 ---
 
-## 🚀 Öne çıkan projeler
+## 🌲 21:58 — Last Shift on Çamyolu
 
-| Proje | Ne yapar | Teknoloji |
+<a href="https://2158.com.tr/"><img src="https://img.shields.io/badge/Free%20download-2158.com.tr-31F700?style=for-the-badge" alt="Free download — 2158.com.tr" /></a>
+
+> **Twenty nights. One rule: don't fall asleep.**
+
+**1996.** A 24-hour convenience store and gas station in the middle of the forest, on the old state road
+Çamyolu 24. You get the job through your friend Emre; you never meet your boss, Mr. Nuri.
+The shop clock stops at **21:58**, the register prints a receipt dated 1996, and an abandoned car waits outside.
+You have to keep the shop running until morning — and stay awake.
+
+A **Turkish-made survival horror game** with a PS1-era look, made by **BeyHod Yapım**.
+
+- 🧾 **Night-shift management:** register, shelf stocking, cigarette and fuel sales, power and sleep management
+- 📹 Watch **14 security cameras** and, when you must, **hide and hold your breath**
+- 🌙 **20 nights**, a **4–6 hour** story, **3 different endings**
+- 🏆 Leaderboard (*Shift Log*), achievements and statistics — results are only submitted if you choose to
+- ⌨️ Fully rebindable controls
+- 💸 **Completely free** — no ads, no purchases
+
+**Platform:** Windows 10/11 (64-bit) · **Engine:** Godot · **Requirements:** DirectX 12 or Vulkan, 4 GB RAM ·
+**Age rating:** 16+ (contains jump scares and flashing lights)
+
+---
+
+## 📌 Pinned projects
+
+| Project | What it does | Tech |
 | --- | --- | --- |
-| 🎮 **[Oyun Arşivim](https://github.com/X1NPAR1/oyun-arsivim)** | Windows için oyun kütüphanesi ve başlatıcı. Steam, Epic, GOG, EA, Ubisoft, Battle.net, Riot ve Xbox oyunlarını otomatik bulur; oynama süresi, istatistikler ve performans modu sunar. | Rust · Tauri 2 · React · TypeScript |
-| 🧹 **[BKKleaner](https://github.com/X1NPAR1/BKKleaner)** | Windows optimizasyon, izleme ve temizlik paketi. Yalnız güvenli ayarlar, tam geri alma; 5 dil, 6 tema. | C# · .NET 9 · WPF · MVVM |
-| 🎨 **[Spectra](https://github.com/X1NPAR1/Spectra)** | NVIDIA ve AMD ekran kartları için profesyonel dijital canlılık (Digital Vibrance) denetleyicisi. | C# · .NET |
-| 🛡️ **[SafeDroid](https://github.com/X1NPAR1/SafeDroid)** | Android güvenlik ve performans paketi: antivirüs, gizlilik araçları, gereksiz dosya temizliği, optimizasyon. | C# · .NET MAUI |
-| 🔎 **[OpenSourceHub](https://github.com/X1NPAR1/OpenSourceHub)** | Windows için GitHub analiz ve keşif platformu — *Analyze. Discover. Build Better.* | C# · WPF |
-| 🪪 **[GitHub Profile Generator](https://github.com/X1NPAR1/GitHub-Profile-Generator)** | GitHub profili yönetimi için masaüstü uygulaması. | C# · .NET 10 · WPF · Clean Architecture |
-| 🍔 **[Burger Dükkânım](https://github.com/X1NPAR1/burger-dukkanim)** | 3B mobil burger tycoon / idle oyunu — Türkçe, çevrimdışı. | Godot 4 · GDScript |
+| ⛏️ **[PackCheck](https://github.com/X1NPAR1/PackCheck)** ⭐ 68 | Minecraft server manager for Windows: create and host Paper, Purpur, Fabric, Forge, NeoForge and Velocity servers, install plugins and mods, automate restarts and backups, play with friends online, and check plugin/mod packs before they break your server. Free and open source. | C# |
+| 🎖️ **[HoI4 Cheat Control Panel](https://github.com/X1NPAR1/hoi4-cheat-control-panel)** | A categorised, tooltip-driven in-game cheat and debug panel for Hearts of Iron IV 1.19 — no more console typing. Additive, open source, six languages. | HoI4 script · Python |
+| 🎨 **[Spectra](https://github.com/X1NPAR1/Spectra)** | Professional Digital Vibrance controller for NVIDIA and AMD GPUs. | C# · .NET |
 
-## 🧱 Minecraft modları
+## 🚀 More featured projects
 
-| Mod | Açıklama |
+| Project | What it does | Tech |
+| --- | --- | --- |
+| 🎮 **[Oyun Arşivim](https://github.com/X1NPAR1/oyun-arsivim)** | Game library and launcher for Windows. Auto-detects Steam, Epic, GOG, EA, Ubisoft, Battle.net, Riot and Xbox games; playtime tracking, statistics and a performance mode. | Rust · Tauri 2 · React · TypeScript |
+| 🧹 **[BKKleaner](https://github.com/X1NPAR1/BKKleaner)** | Windows optimization, monitoring and cleanup suite. Safe tweaks only, full undo; 5 languages, 6 themes. | C# · .NET 9 · WPF · MVVM |
+| 🛡️ **[SafeDroid](https://github.com/X1NPAR1/SafeDroid)** | Android security and performance suite: antivirus, privacy tools, junk cleanup, optimization. | C# · .NET MAUI |
+| 🔎 **[OpenSourceHub](https://github.com/X1NPAR1/OpenSourceHub)** | GitHub analysis and discovery platform for Windows — *Analyze. Discover. Build Better.* | C# · WPF |
+| 🪪 **[GitHub Profile Generator](https://github.com/X1NPAR1/GitHub-Profile-Generator)** | Desktop app for managing your GitHub profile. | C# · .NET 10 · WPF · Clean Architecture |
+| 🍔 **[Burger Dükkânım](https://github.com/X1NPAR1/burger-dukkanim)** | 3D mobile burger tycoon / idle game — fully offline. | Godot 4 · GDScript |
+
+## 🧱 Minecraft mods
+
+| Mod | Description |
 | --- | --- |
-| **[Adaptive Performance Manager](https://github.com/X1NPAR1/adaptive-performance-manager)** | Gerçek zamanlı FPS/CPU/RAM optimizasyonu: kademeli iyileştirici, VSync/kare hızı kontrolü, canlı panel, 11 dil. İstemci taraflı, MIT. |
-| **[Smart Mob Evolution](https://github.com/X1NPAR1/smart-mob-evolution)** | Düşman yaratıklar oyuncu davranışını öğrenerek evrilir — güç şişirmeden, ortaya çıkan zekâ. Fabric 1.21.1, sunucu taraflı. |
-| **[Adaptive Horror Entity](https://github.com/X1NPAR1/AdaptiveHorrorEntity)** | Ucuz korkutmalar yerine seni sinsice izleyen akıllı bir varlık. NeoForge + Fabric 1.21.1. |
-| **[BeyHod Health Display](https://github.com/X1NPAR1/BeyHodHealthDisplay)** | Can göstergesi eklentisi. |
+| **[Adaptive Performance Manager](https://github.com/X1NPAR1/adaptive-performance-manager)** | Real-time FPS/CPU/RAM optimization: tiered optimizer, VSync/frame-rate control, live dashboard, 11 languages. Client-side, MIT. |
+| **[Smart Mob Evolution](https://github.com/X1NPAR1/smart-mob-evolution)** | Hostile mobs evolve by learning player behavior — emergent intelligence, not stat inflation. Fabric 1.21.1, server-side. |
+| **[Adaptive Horror Entity](https://github.com/X1NPAR1/AdaptiveHorrorEntity)** | A smart entity that quietly stalks you instead of relying on cheap jump scares. NeoForge + Fabric 1.21.1. |
+| **[BeyHod Health Display](https://github.com/X1NPAR1/BeyHodHealthDisplay)** | Health display add-on. |
 
-## 🎖️ Strateji oyunu araçları
+## 🧟 Unturned (RocketMod) plugins
 
-- **[HoI4 Cheat Control Panel](https://github.com/X1NPAR1/hoi4-cheat-control-panel)** — Hearts of Iron IV 1.19 için kategorili, açıklamalı oyun içi hile ve hata ayıklama paneli. Ekleme tabanlı, 6 dil.
+Plugins I wrote for community servers:
+[XNPVault](https://github.com/X1NPAR1/XNPVault) (item vault) ·
+[XNPDailyQuest](https://github.com/X1NPAR1/XNPDailyQuest) (daily quests) ·
+[XNPReportUI](https://github.com/X1NPAR1/XNPReportUI) (report/request panel) ·
+[XNPMoneyHUD](https://github.com/X1NPAR1/XNPMoneyHUD) (Uconomy balance HUD) ·
+[XNPDuyuruUI](https://github.com/X1NPAR1/XNPDuyuruUI) (announcement UI) ·
+[YetkiliCagir](https://github.com/X1NPAR1/YetkiliCagir) (call staff via Discord webhook) ·
+[XnprSteamGrupOdul](https://github.com/X1NPAR1/XnprSteamGrupOdul) (Steam group reward) ·
+[WuzzGunBlocker](https://github.com/X1NPAR1/WuzzGunBlocker) (blocks shooting from vehicles) ·
+[MathQuiz](https://github.com/X1NPAR1/MathQuiz) (math contest) ·
+[VipTest](https://github.com/X1NPAR1/VipTest) (timed permissions)
 
-## 🧟 Unturned (RocketMod) eklentileri
+## 🧰 Other tools and releases
 
-Topluluk sunucuları için yazdığım eklentiler:
-[XNPVault](https://github.com/X1NPAR1/XNPVault) (eşya kasası) ·
-[XNPDailyQuest](https://github.com/X1NPAR1/XNPDailyQuest) (günlük görevler) ·
-[XNPReportUI](https://github.com/X1NPAR1/XNPReportUI) (rapor/istek paneli) ·
-[XNPMoneyHUD](https://github.com/X1NPAR1/XNPMoneyHUD) (Uconomy para göstergesi) ·
-[XNPDuyuruUI](https://github.com/X1NPAR1/XNPDuyuruUI) (duyuru arayüzü) ·
-[YetkiliCagir](https://github.com/X1NPAR1/YetkiliCagir) (Discord webhook ile yetkili çağırma) ·
-[XnprSteamGrupOdul](https://github.com/X1NPAR1/XnprSteamGrupOdul) (Steam grubu ödülü) ·
-[WuzzGunBlocker](https://github.com/X1NPAR1/WuzzGunBlocker) (araçtan ateşi engeller) ·
-[MathQuiz](https://github.com/X1NPAR1/MathQuiz) (matematik yarışması) ·
-[VipTest](https://github.com/X1NPAR1/VipTest) (süreli yetki)
-
-## 🧰 Diğer araçlar ve dağıtımlar
-
-- **[SmartDiskCleaner](https://github.com/X1NPAR1/SmartDiskCleaner)** — akıllı disk temizleyici (C#)
-- **[context-compass](https://github.com/X1NPAR1/context-compass)** — Git ortak düzenleme verisinden Claude Code için davranışsal kod bağlamı (TypeScript)
-- **[DiscordBOT](https://github.com/X1NPAR1/DiscordBOT)** — moderasyon, ticket, çekiliş, rol panelleri ve CS sunucu durumu
-- **Kurulum dağıtımları:** [ServerCreator](https://github.com/X1NPAR1/ServerCreator-Release) ·
+- **[SmartDiskCleaner](https://github.com/X1NPAR1/SmartDiskCleaner)** — smart disk cleaner (C#)
+- **[context-compass](https://github.com/X1NPAR1/context-compass)** — behavioral code context for Claude Code from Git co-change data (TypeScript)
+- **[DiscordBOT](https://github.com/X1NPAR1/DiscordBOT)** — moderation, tickets, giveaways, role panels and CS server status
+- **Installer releases:** [ServerCreator](https://github.com/X1NPAR1/ServerCreator-Release) ·
   [Untreator](https://github.com/X1NPAR1/untreator-release) ·
   [Audio Scene Switcher](https://github.com/X1NPAR1/AudioSceneSwitcher) ·
   [BeMCast Pro](https://github.com/X1NPAR1/bemcast-pro-releases) ·
@@ -87,7 +90,7 @@ Topluluk sunucuları için yazdığım eklentiler:
 
 ---
 
-## 🛠️ Kullandığım teknolojiler
+## 🛠️ Tech I use
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -104,18 +107,18 @@ Topluluk sunucuları için yazdığım eklentiler:
 ![Windows](https://img.shields.io/badge/Windows%20API-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 Çalışma ilkelerim
+## 📈 How I work
 
-- **Performans önce gelir** — hafif, hızlı, kaynak dostu yazılım
-- **Güvenli varsayılanlar** — yalnız geri alınabilir değişiklikler, kullanıcı verisine saygı
-- **Kullanıcı odaklı tasarım** — Türkçe öncelikli, sade ve anlaşılır arayüzler
-- **Temiz ve test edilmiş kod** — sürdürülebilir mimari, otomatik testler, CI
-- **Açık kaynak** — öğrendiğimi paylaşmak
+- **Performance first** — lightweight, fast, resource-friendly software
+- **Safe defaults** — only reversible changes, respect for user data
+- **User-focused design** — clean, simple, easy-to-understand interfaces
+- **Clean, tested code** — maintainable architecture, automated tests, CI
+- **Open source** — sharing what I learn
 
-## 📫 İletişim
+## 📫 Contact
 
 [![Instagram](https://img.shields.io/badge/Instagram-@beytoo3532-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/beytoo3532/)
 
 📸 [@beytoo3532](https://www.instagram.com/beytoo3532/) · 🎮 [2158.com.tr](https://2158.com.tr/) · 🐙 [github.com/X1NPAR1](https://github.com/X1NPAR1)
 
-> *"İyi yazılım; güvenilirlik, performans, ayrıntıya özen ve sürekli gelişme kararlılığıyla yapılır."*
+> *"Good software is built on reliability, performance, attention to detail and a commitment to keep improving."*
